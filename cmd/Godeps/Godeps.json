@@ -1,0 +1,18 @@
+{
+	"ImportPath": "github.com/freeformz/tcmd/cmd",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Packages": [
+		"./..."
+	],
+	"Deps": [
+		{
+			"ImportPath": "github.com/freeformz/tcmd",
+			"Rev": "0eab15391a52321e34346160ae43ea3580cc1a7f"
+		},
+		{
+			"ImportPath": "github.com/heroku/slog",
+			"Rev": "7746152d93404575df4efa59a29adb8c168c464a"
+		}
+	]
+}
